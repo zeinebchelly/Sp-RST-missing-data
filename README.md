@@ -35,7 +35,5 @@ spark-submit C:\...\Sp-RST\target\scala-2.11\qfs_2.11-1.0.jar inputData ' ' 20 1
 
 ```
 
-## Publications
-
 ## ACKNOWLEDGMENT
 This work is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 702527.
